@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+F:\Cursos-Carrera\Programacion\Generation\Bootcamp java full stack\CH36\Tareas\Ejercicios de Logica\SA-LPD9 - Colecciones\.metadata\.plugins\org.eclipse.jdt.core
+3413725848.index
+236219980.index
+1865797976.index
